@@ -38,7 +38,7 @@ Zwiększenie mobilnośći: FurniEase umożliwia pracownikom firmy pracę w dowol
 Lepsza komunikacja: FurniEase zapewnia bardziej efektywną interakcję i komunikację między pracownikami firmy.
 
 #
-Interesariusze :
+**Interesariusze :** 
 
 1. Firma (właściciele, menedżerowie)
 
@@ -46,7 +46,7 @@ Interesariusze :
 
 3. Klienci
 #
-Sposoby uzyskania wymagań:
+**Sposoby uzyskania wymagań:**
 
 a) Analiza danych i informacji zwrotnych 
 
@@ -141,3 +141,16 @@ Lp.	| Nazwa	| Warunki wstępne |	Kroki wykonania |	Oczekiwany rezultat
 12	| Promocje i powiadomienia	| Użytkownik zezwolił na otrzymywanie powiadomień |	1. Sprawdź dostępne promocje i powiadomienia w ustawieniach konta |	Użytkownik otrzymuje informacje o promocjach i powiadomienia dotyczące swojego konta
 13 |	Wyszukiwanie produktów |	Strona główna jest dostępna	| 1. Wprowadź wyszukiwane słowo w pole wyszukiwania	| Wyświetla się lista produktów zgodnych z wprowadzonymi kryteriami wyszukiwania
 14	| Dostępność produktu	| Użytkownik przegląda stronę produktu |	1. Sprawdź dostępność produktu na stronie produktu	| Wyświetla się informacja o dostępności produktu
+15	| Porównanie produktów	| Użytkownik przegląda listę produktów |	1. Wybierz dwa lub więcej produktów, które chcesz porównać | 	Wyświetla się tabela porównawcza zawierająca cechy i specyfikacje wybranych produktów
+16	| Filtracja produktów |	Strona główna jest dostępna	| 1. Skorzystaj z dostępnych filtrów na stronie głównej, takich jak cena, kategoria, marka itp.	| Wyświetla się lista produktów spełniających wybrane kryteria filtracji
+17 |	Rekomendacje produktów |	Użytkownik ma historię zakupów lub preferencje |	1. Sprawdź sekcję rekomendacji na stronie głównej	| Wyświetla się lista rekomendowanych produktów na podstawie wcześniejszych zakupów lub preferencji użytkownika
+18	| Dodawanie opinii i komentarzy |	Użytkownik jest zalogowany i posiada zamówiony produkt	| 1. Wejdź na stronę zamówionego produktu i dodaj opinię lub komentarz	| Opinia lub komentarz jest widoczny na stronie produktu i można go ocenić lub odpowiedzieć na niego
+19	| Ulubione produkty |	Użytkownik jest zalogowany |	1. Dodaj produkt do listy ulubionych	| Produkt zostaje dodany do listy ulubionych użytkownika
+20	| Porównywanie cen |	Użytkownik przegląda listę produktów |	1. Sprawdź dostępne ceny produktów na różnych platformach	| Wyświetla się tabela porównawcza zawierająca ceny produktów na różnych platformach
+
+
+
+
+
+
+
