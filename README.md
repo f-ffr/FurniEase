@@ -122,4 +122,22 @@ ID | Zastosowanie|	Nazwa |	Wersja
 8	| Zarządzanie infrastrukturą	| Docker/Kubernetes	 | -
 9	| Kontrola wersji	| Git/GitHub/GitLab	| 2.32.0
 
+#
+## Testy
 
+Lp.	| Nazwa	| Warunki wstępne |	Kroki wykonania |	Oczekiwany rezultat
+|---|---|---|---|----|
+1	| Rejestracja użytkownika	| Strona rejestracji jest dostępna	| 1. Wejdź na stronę rejestracji	| Wyświetla formularz rejestracji użytkownika |
+2	| Logowanie użytkownika | Użytkownik posiada ważne dane logowania	| 1. Wejdź na stronę logowania	| Użytkownik zostaje zalogowany i przeniesiony do panelu użytkownika 
+3 |	Zamówienie produktu	| Użytkownik jest zalogowany i ma produkt w koszyku	| 1. Przejdź do koszyka	| Wyświetla się podsumowanie zamówienia z opcją dokonania płatności
+4	| Płatność za zamówienie	| Użytkownik ma wybrane produkty do zapłaty	| 1. Wybierz preferowany sposób płatności	| Płatność jest przetwarzana, a użytkownik otrzymuje potwierdzenie zamówienia
+5	| Zmiana adresu dostawy	Użytkownik ma złożone zamówienie |	1. Wejdź do ustawień konta i znajdź opcję zmiany adresu dostawy	| Adres dostawy jest zaktualizowany w systemie i wyświetlany na potwierdzeniu zamówienia
+6	| Zmiana sposobu płatności	| Użytkownik ma złożone zamówienie	| 1. Wejdź do ustawień konta i znajdź opcję zmiany sposobu płatności	| Sposób płatności jest zaktualizowany w systemie i wyświetlany na potwierdzeniu zamówienia
+7 |	Zwrot produktu	| Użytkownik otrzymał produkt i chce go zwrócić	| 1. Skontaktuj się z obsługą klienta w celu zgłoszenia zwrotu produktu	| Obsługa klienta inicjuje proces zwrotu, a użytkownik otrzymuje instrukcje dotyczące procedury zwrotu
+8	| Wymiana produktu	| Użytkownik otrzymał produkt i chce go wymienić	| 1. Skontaktuj się z obsługą klienta w celu zgłoszenia wymiany produktu |	Obsługa klienta inicjuje proces wymiany, a użytkownik otrzymuje instrukcje dotyczące procedury wymiany
+9 |	Dodawanie produktu do listy życzeń|	Użytkownik jest zalogowany i przegląda produkty |	1. Wybierz produkt i dodaj go do listy życzeń	| Produkt zostaje dodany do listy życzeń użytkownika
+10	| Ocena i recenzja produktu |	Użytkownik otrzymał zamówiony produkt	| 1. Wejdź na stronę zamówionego produktu i dodaj ocenę oraz recenzję |	Ocena i recenzja produktu są wyświetlane na stronie produktu
+11	| Kontakt z obsługą klienta	| Użytkownik ma pytanie lub problem z zamówieniem |	1. Skorzystaj z dostępnych opcji kontaktu z obsługą klienta	| Użytkownik otrzymuje odpowiedź lub rozwiązanie problemu od obsługi klienta
+12	| Promocje i powiadomienia	| Użytkownik zezwolił na otrzymywanie powiadomień |	1. Sprawdź dostępne promocje i powiadomienia w ustawieniach konta |	Użytkownik otrzymuje informacje o promocjach i powiadomienia dotyczące swojego konta
+13 |	Wyszukiwanie produktów |	Strona główna jest dostępna	| 1. Wprowadź wyszukiwane słowo w pole wyszukiwania	| Wyświetla się lista produktów zgodnych z wprowadzonymi kryteriami wyszukiwania
+14	| Dostępność produktu	| Użytkownik przegląda stronę produktu |	1. Sprawdź dostępność produktu na stronie produktu	| Wyświetla się informacja o dostępności produktu
