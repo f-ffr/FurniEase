@@ -54,7 +54,7 @@ b) Obserwacja procesów biznesowych
 
 c) Obserwacja procesów biznesowych
 #
-Prawa autorskie
+## Prawa autorskie
 
 a) **author:** Katsiaryna Kukhto
 
