@@ -1,7 +1,10 @@
 # FurniEase
+
+
 FurniEase - wygoda i efektywność dla klientów.
 #
 FurniEase to rewolucyjna aplikacja, która jest pierwszą w firmie budowlanej Furni platformą do zamawiania mebli do domu z dostawą, która znacznie upraszcza pracę firmy.
+
 
 ## Characterystyka opragramowania
 **Nazwa scrócona:** FurniEase
