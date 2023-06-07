@@ -29,6 +29,14 @@ Interesariusze :
 
 3. Klienci
 
+Sposoby uzyskania wymagań:
+
+a) Analiza danych i informacji zwrotnych 
+
+b) Obserwacja procesów biznesowych 
+
+c) Obserwacja procesów biznesowych
+
 
 # Prawa autorskie
 
