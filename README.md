@@ -8,7 +8,7 @@ FurniEase to rewolucyjna aplikacja, która jest pierwszą w firmie budowlanej Fu
 
 **Nazwa Pelna:** FurniEase - wygoda i efektywność dla klientów.
 #
-Opis:
+**Opis:**
 
 FurniEase oferuje szeroką gamę mebli domowych, w tym łóżka, stoły, krzesła, szafy i wiele innych. Klienci mogą łatwo i wygodnie wybierać spośród różnych stylów, materiałów i przedziałów cenowych. Dzięki algorytmom uczenia maszynowego FurniEase zapewnia klientom spersonalizowane rekomendacje i sugestie w oparciu o ich preferencje i styl wnętrza.Klienci mogą łatwo złożyć zamówienie za pośrednictwem aplikacji, wybierając potrzebne meble, podając preferowane opcje i adres dostawy. FurniEase zapewnia przejrzyste informacje o dostępności towarów i szacowany czas dostawy.
 
@@ -148,6 +148,15 @@ Lp.	| Nazwa	| Warunki wstępne |	Kroki wykonania |	Oczekiwany rezultat
 19	| Ulubione produkty |	Użytkownik jest zalogowany |	1. Dodaj produkt do listy ulubionych	| Produkt zostaje dodany do listy ulubionych użytkownika
 20	| Porównywanie cen |	Użytkownik przegląda listę produktów |	1. Sprawdź dostępne ceny produktów na różnych platformach	| Wyświetla się tabela porównawcza zawierająca ceny produktów na różnych platformach
 
+
+#
+
+## Możliwości rozbudowy
+
+
+**Moduł śledzenia przesyłek:** Dodanie funkcjonalności śledzenia przesyłek
+
+**Moduł porad i inspiracji:** Wprowadzenie sekcji porad i inspiracji, gdzie użytkownicy mogą znaleźć praktyczne wskazówki dotyczące wyboru mebli, aranżacji wnętrz, trendów designu itp 
 
 
 
