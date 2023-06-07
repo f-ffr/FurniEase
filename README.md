@@ -4,9 +4,9 @@ FurniEase - wygoda i efektywność dla klientów.
 FurniEase to rewolucyjna aplikacja, która jest pierwszą w firmie budowlanej Furni platformą do zamawiania mebli do domu z dostawą, która znacznie upraszcza pracę firmy.
 
 ## Characterystyka opragramowania
-Nazwa scrócona: FurniEase
+**Nazwa scrócona:** FurniEase
 
-Nazwa Pelna: FurniEase - wygoda i efektywność dla klientów.
+**Nazwa Pelna:** FurniEase - wygoda i efektywność dla klientów.
 #
 Opis:
 
@@ -17,6 +17,26 @@ FurniEase pozwala firmie wygodnie śledzić i zarządzać wszystkimi zamówienia
 FurniEase eliminuje potrzebę ręcznego składania i przetwarzania zamówień, co znacznie ułatwia pracę pracownikom. Mogą szybko i łatwo przeglądać zamówienia, sprawdzać dostępność produktów i zarządzać procesem dostawy.
 FurniEase zapewnia bardziej efektywną interakcję i komunikację między pracownikami firmy.
 FurniEase umożliwia pracownikom firmy pracę w dowolnym miejscu, w którym jest dostęp do aplikacji. Jest to szczególnie przydatne dla pracowników, którzy dostarczają meble lub pracują poza biurem. Mogą skutecznie wykonywać swoje zadania i zarządzać zamówieniami, nawet z dala od komputera.
+
+**Plusy dla firmy:**
+
+Zwiększenie sprzedaży: aplikacja FurniEase zapewnia firmie nowy kanał sprzedaży, aby przyciągnąć więcej klientów i zwiększyć liczbę zamówień na meble.
+
+Ulepszenie zarządzania zamówieniami: System pomaga śledzić statusy zamówień, zarządzać czasem dostawy i koordynować pracowników.
+
+Optymalizacja zapasów: Korzystanie z FurniEase pomaga uniknąć nadprodukcji lub niedoborów towarów, co prowadzi do niższych kosztów i lepszej wydajności.
+
+Ulepszonie usługi dostaw: FurniEase zapewnia firmie narzędzia do optymalizacji tras dostaw i alokacji zasobów.
+
+**Plusy dla pracowników firmy:**
+
+Uproszczenie procesu zamawiania: FurniEase eliminuje potrzebę ręcznego odprawy i przetwarzania zamówień, pracownicy mogą szybko i łatwo przeglądać zamówienia, sprawdzać dostępność towarów i zarządzać procesem dostawy.
+
+Ulepszenie dostępnośći informacji: pracownicy firmy mają stały dostęp do aktualnych danych o zamówieniach, zapasach i klientach za pośrednictwem aplikacji.
+
+Zwiększenie mobilnośći: FurniEase umożliwia pracownikom firmy pracę w dowolnym miejscu, w którym jest dostęp do aplikacji. Jest to szczególnie przydatne dla pracowników, którzy dostarczają meble lub pracują poza biurem.
+Lepsza komunikacja: FurniEase zapewnia bardziej efektywną interakcję i komunikację między pracownikami firmy.
+
 #
 Interesariusze :
 
@@ -36,7 +56,9 @@ c) Obserwacja procesów biznesowych
 #
 Prawa autorskie
 
-a) author: Katsiaryna Kukhto
+a) **author:** Katsiaryna Kukhto
 
-b) licencia: MIT (Licencja X11)
+b) **licencia:** MIT (Licencja X11)
+
+
 
