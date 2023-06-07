@@ -154,7 +154,7 @@ Lp.	| Nazwa	| Warunki wstępne |	Kroki wykonania |	Oczekiwany rezultat
 
 #
 
-## Możliwości rozbudowy
+**Możliwości rozbudowy** 
 
 
 **Moduł śledzenia przesyłek:** Dodanie funkcjonalności śledzenia przesyłek
