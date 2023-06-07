@@ -91,3 +91,35 @@ NFR-004	| Responsywny design	| Aplikacja ma responsywny design, dostosowany do r
 NFR-005 |	Dostępność	| Aplikacja jest dostępna dla osób z różnymi niepełnosprawnościami |	2 |	Pozafunkcjonalne
 NFR-006	| Łatwość obsługi	| Aplikacja jest intuicyjna i łatwa w obsłudze, nawet dla użytkowników bez doświadczenia	| 1 |	Pozafunkcjonalne
 
+## Architektura systemu
+#
+
+**Architektury rozwoju - stosu technologicznego:**
+
+ID | Zastosowanie|	Nazwa |	Wersja
+|---|---|---|---|
+1	| Język programowania	| JavaScript | ECMAScript | 6
+2	| Framework front-end	| React.js	| 17.0.2
+3	| Framework back-end	| Node.js	| 14.17.3
+4	| Baza danych |	MongoDB |	4.4.6
+5	| Protokół komunikacyjny	| RESTful API	| -
+6	| Narzędzie do zarządzania zależnościami	| npm	| 7.24.0
+7 |	System kontroli wersji |	Git	 | 2.32.0
+8	| Platforma do deployowania	| Heroku |	-
+9 |	Środowisko testowe	| Jest	| 27.0.6
+
+**Architektury uruchomieniowej - stosu technologicznego:**
+
+ID | Zastosowanie|	Nazwa |	Wersja
+|---|---|---|---|
+1	| Front-end |	JavaScript/React.js/Redux	| -
+2	| Back-end	|JavaScript/Node.js/Express.js	| -
+3	| Baza danych	| MongoDB	| 4.4.6
+4	| Narzędzie do budowania interfejsu	| HTML, CSS	| -
+5	| Narzędzie do komunikacji z serwerem |	Fetch API/Axios	| -
+6	| Język programowania	|JavaScript	|ECMAScript 6
+7	| Hosting |	Heroku/AWS/Azure	| -
+8	| Zarządzanie infrastrukturą	| Docker/Kubernetes	 | -
+9	| Kontrola wersji	| Git/GitHub/GitLab	| 2.32.0
+
+
