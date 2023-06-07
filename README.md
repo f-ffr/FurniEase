@@ -60,5 +60,34 @@ a) **author:** Katsiaryna Kukhto
 
 b) **licencia:** MIT (Licencja X11)
 
+#
 
+## Specyfikacja wymagań
+
+Priorytet: [1 - wymagane, 2 - przydatne, 3 – opcjonalne]
+
+Kategoria: [funkcjonalne, pozafunkcjonalne]
+
+**Wymagania funkcjonalne**
+
+| Identyfikator |	Nazwa	| Opis | Priorytet	| Kategoria |
+|---|---|---|---|---|
+FR-001 |	Rejestracja użytkownika |	Użytkownik może zarejestrować się w aplikacji	|1|	Funkcjonalne
+FR-002	| Logowanie użytkownika	| Użytkownik może zalogować się do aplikacji |1	| Funkcjonalne
+FR-003 |	Przeglądanie katalogu mebli |	Użytkownik może przeglądać dostępne meble w katalogu	|1	|Funkcjonalne
+FR-004	| Dodawanie mebli do koszyka |	Użytkownik może dodawać wybrane meble do koszyka	|1|	Funkcjonalne
+FR-005	|Składanie zamówienia	|Użytkownik może składać zamówienie z wybranymi meblami	|1|	Funkcjonalne
+FR-006|	Śledzenie statusu zamówienia	|Użytkownik może śledzić aktualny status swojego zamówienia|	2	|Funkcjonalne
+FR-007	|Ocena i opinia o produkcie	|Użytkownik może oceniać i zostawiać opinie o produktach |	2	|Funkcjonalne
+
+**Wymagania niefunkcjonalne**
+
+| Identyfikator |	Nazwa	| Opis | Priorytet	| Kategoria |
+|---|---|---|---|---|
+NFR-001	| Bezpieczeństwo danych |	Dane użytkowników i zamówień są przechowywane w bezpieczny sposób	| 1	| Pozafunkcjonalne
+NFR-002 |	Wydajność	| Aplikacja jest zoptymalizowana pod kątem szybkości działania i ładowania |	2	| Pozafunkcjonalne
+NFR-003 |	Wielojęzyczność | Aplikacja obsługuje różne języki, umożliwiając użytkownikom wybór preferowanego języka	| 2 |	Pozafunkcjonalne
+NFR-004	| Responsywny design	| Aplikacja ma responsywny design, dostosowany do różnych urządzeń	| 1	| Pozafunkcjonalne
+NFR-005 |	Dostępność	| Aplikacja jest dostępna dla osób z różnymi niepełnosprawnościami |	2 |	Pozafunkcjonalne
+NFR-006	| Łatwość obsługi	| Aplikacja jest intuicyjna i łatwa w obsłudze, nawet dla użytkowników bez doświadczenia	| 1 |	Pozafunkcjonalne
 
