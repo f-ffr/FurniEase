@@ -161,8 +161,13 @@ Lp.	| Nazwa	| Warunki wstępne |	Kroki wykonania |	Oczekiwany rezultat
 
 **Moduł porad i inspiracji:** Wprowadzenie sekcji porad i inspiracji, gdzie użytkownicy mogą znaleźć praktyczne wskazówki dotyczące wyboru mebli, aranżacji wnętrz, trendów designu itp 
 
+#
 
+## Projekt widoków
 
+![image](https://github.com/f-ffr/FurniEase/assets/63017069/50b4c63c-ff68-42a5-87e3-15687401e4af)
+![image](https://github.com/f-ffr/FurniEase/assets/63017069/738c2bc7-bed9-468b-b418-f573857e6c47)
+![image](https://github.com/f-ffr/FurniEase/assets/63017069/e7e30781-eabd-40ba-835a-d5abec9ccfde)
 
 
 
