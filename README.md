@@ -28,3 +28,11 @@ Interesariusze :
 2. Pracownicy firmy (sprzedawcy, menedżerowie, usługi dostawcze)
 
 3. Klienci
+
+
+# Prawa autorskie
+
+a) author: Katsiaryna Kukhto
+
+b) licencia: MIT (Licencja X11)
+
